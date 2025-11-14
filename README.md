@@ -1,5 +1,4 @@
 # LeetCode Java Solutions
-QUICK TEST IF YOU READ THIS ONLINE; THEN COMMIT PUSH WORKED
 This repository contains my Java solutions to LeetCode problems.
 I focus on:
 
